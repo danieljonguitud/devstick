@@ -1,1 +1,2 @@
-Codigo fuente y archivo HEX para uso de devstick o Joystick Arcade para PC, MAC y Linux.
+# Devstick
+Código para Devstick Arcade o Joystick Arcade. Se incluye su libreria y archivo HEX listo para montar en placa.
